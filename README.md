@@ -21,7 +21,6 @@ Python Developer • Freelancer • Automation & Data Analysis
 - ⚡ Studying Automation & Data Analysis
 - 🧠 Learning more about Back-end Development
 - 🗄️ Knowledge in Databases & Django
-- 📚 Always building and improving projects
 
 ---
 
@@ -43,5 +42,4 @@ Python Developer • Freelancer • Automation & Data Analysis
 - APIs
 - File Manipulation
 - Django
-- Back-end Development
 - System Organization
