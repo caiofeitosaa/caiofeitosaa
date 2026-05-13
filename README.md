@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Caio Roberto Caldas Feitosa 👋</h1>
 
 <h3 align="center">
-Python Developer • Freelancer • Automation & Data Analysis
+Python Developer • Freelancer • Automation 
 </h3>
 
 <br>
@@ -18,7 +18,7 @@ Python Developer • Freelancer • Automation & Data Analysis
 
 - 💻 Freelancer Developer
 - 🐍 Focused on Python Development
-- ⚡ Studying Automation & Data Analysis
+- ⚡ Studying Automation 
 - 🧠 Learning more about Back-end Development
 - 🗄️ Knowledge in Databases & Django
 
@@ -37,7 +37,6 @@ Python Developer • Freelancer • Automation & Data Analysis
 ## 📊 Currently Studying
 
 ```python
-- Data Analysis
 - Python Automation
 - APIs
 - File Manipulation
