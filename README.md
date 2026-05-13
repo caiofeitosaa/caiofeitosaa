@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Caio Roberto Caldas Feitosa 👋</h1>
 
 <h3 align="center">
-Python Developer • Freelancer • Automation 
+Freelancer Developer • Automation 
 </h3>
 
 <br>
