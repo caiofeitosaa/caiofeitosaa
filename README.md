@@ -8,7 +8,7 @@ Freelancer Developer • Automation
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Python+Developer;Automation+Enthusiast;Data+Analysis+Student;Back-end+Developer;Freelancer" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Python+Developer;Automation+Enthusiast;Back-end+Developer;Freelancer" />
 
 </div>
 
