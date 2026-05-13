@@ -1,44 +1,47 @@
-<h1 align="center">Caio Roberto Caldas Feitosa</h1>
+<h1 align="center">Hey, I'm Caio Roberto Caldas Feitosa 👋</h1>
 
-<p align="center">
-  <b>Python Developer</b> • Automation • Data Analysis • Back-end
-</p>
+<h3 align="center">
+Python Developer • Freelancer • Automation & Data Analysis
+</h3>
 
 <br>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Python+Developer;Automation+Enthusiast;Data+Analysis+Student;Building+Real+Projects"
-  />
-</p>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Python+Developer;Automation+Enthusiast;Data+Analysis+Student;Back-end+Developer;Freelancer" />
+
+</div>
 
 ---
 
-## About Me
+## 🚀 About Me
+
+- 💻 Freelancer Developer
+- 🐍 Focused on Python Development
+- ⚡ Studying Automation & Data Analysis
+- 🧠 Learning more about Back-end Development
+- 🗄️ Knowledge in Databases & Django
+- 📚 Always building and improving projects
+
+---
+
+## 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 Currently Studying
 
 ```python
-class CaioFeitosa:
-
-    def __init__(self):
-
-        self.role = 'Freelancer Developer'
-
-        self.focus = [
-
-            'Python',
-            'Automation',
-            'Data Analysis',
-            'Back-end Development'
-        ]
-
-        self.currently_learning = [
-
-            'Django',
-            'APIs',
-            'Data Analysis',
-            'Project Architecture'
-        ]
-
-    def goals(self):
-
-        return 'Build useful and scalable solutions'
+- Data Analysis
+- Python Automation
+- APIs
+- File Manipulation
+- Django
+- Back-end Development
+- System Organization
