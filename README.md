@@ -34,11 +34,4 @@ Python Developer • Freelancer • Automation
 
 ---
 
-## 📊 Currently Studying
 
-```python
-- Python Automation
-- APIs
-- File Manipulation
-- Django
-- System Organization
