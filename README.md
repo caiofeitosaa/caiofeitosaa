@@ -28,7 +28,7 @@
 - Git
 - GitHub
 - VS Code
-- IntelliJ IDEA
+- IntelliJ 
 
 ---
 
