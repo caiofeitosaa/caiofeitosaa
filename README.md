@@ -20,16 +20,7 @@
 - Java
 - Object-Oriented Programming
 - Spring Framework
-
-🐍 Experience with:
-- Python
-
-🔧 Tools:
-- Git
-- GitHub
-- VS Code
-- IntelliJ 
-
+  
 ---
 
 ## Technologies
