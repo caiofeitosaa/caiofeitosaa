@@ -16,7 +16,7 @@
 
 ☕ Focused on learning Java and Backend Development
 
-🌱 Currently studying:
+☕ Currently studying:
 - Java
 - Object-Oriented Programming
 - Spring Framework
