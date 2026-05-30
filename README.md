@@ -1,37 +1,56 @@
-<h1 align="center">Hey, I'm Caio Roberto Caldas Feitosa 👋</h1>
+<h1 align="center">Hi, I'm Caio 👋</h1>
 
-<h3 align="center">
-Freelancer Developer • Automation 
-</h3>
+<p align="center">
+  ADS Student at UNIFOR • Java Developer in Progress ☕
+</p>
 
-<br>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?color=58A6FF&size=28&center=true&vCenter=true&width=1000&lines=Python+Developer;Automation+Enthusiast;Back-end+Developer;Freelancer" />
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,git,github,vscode,idea" />
+</p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 💻 Freelancer Developer
-- 🐍 Focused on Python Development
-- ⚡ Studying Automation 
-- 🧠 Learning more about Back-end Development
-- 🗄️ Knowledge in Databases & Django
+🎓 ADS (Systems Analysis and Development) Student at UNIFOR
+
+☕ Focused on learning Java and Backend Development
+
+🌱 Currently studying:
+- Java
+- Object-Oriented Programming
+- Spring Framework
+
+🐍 Experience with:
+- Python
+
+🔧 Tools:
+- Git
+- GitHub
+- VS Code
+- IntelliJ IDEA
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,django,postgresql,sqlite,git,github,vscode" />
-
-</div>
+- Java
+- Python
+- Spring Framework
+- Git
+- GitHub
 
 ---
 
+## Current Goals
 
+- Improve my Java skills
+- Master Spring Boot
+- Build real-world backend projects
+- Grow my portfolio
+
+---
+
+<p align="center">
+  Thanks for visiting my profile 🚀
+</p>
