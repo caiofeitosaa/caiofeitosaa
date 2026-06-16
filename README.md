@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Caio 👋</h1>
+<h1 align="center">Hi, I'm Caio.</h1>
 
 <p align="center">
   ADS Student at University of Fortaleza • Java Developer in Progress ☕
