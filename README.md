@@ -26,7 +26,6 @@
 ## Technologies
 
 - Java
-- Python
 - Spring Framework
 - Git
 - GitHub
