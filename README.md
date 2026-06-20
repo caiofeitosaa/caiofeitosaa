@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Caio</h1>
 
 <p align="center">
-  ADS Student at University of Fortaleza • Java Developer in Progress ☕
+  ADS Student at University of Fortaleza • Java Developer in Progress 
 </p>
 
 <p align="center">
@@ -12,11 +12,11 @@
 
 ## About Me
 
-🎓 ADS (Systems Analysis and Development) Student at University of Fortaleza
+ADS (Systems Analysis and Development) Student at University of Fortaleza
 
-☕ Focused on learning Java and Backend Development
+Focused on learning Java and Backend Development
 
-☕ Currently studying:
+Currently studying:
 - Java
 - Object-Oriented Programming
 - Spring Framework
@@ -38,9 +38,3 @@
 - Master Spring Boot
 - Build real-world backend projects
 - Grow my portfolio
-
----
-
-<p align="center">
-  Thanks for visiting my profile 🚀
-</p>
