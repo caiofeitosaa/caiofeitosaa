@@ -18,7 +18,9 @@ Focused on learning Java and Backend Development
 
 Currently studying:
 - Java
+- JavaFX
 - Object-Oriented Programming
+- APIs
 - SQL
 - MySQL
 - MVC Architecture
