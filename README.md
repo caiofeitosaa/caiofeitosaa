@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,javafx,sql,mysql,spring,git,github,idea,vscode" />
 </p>
 
 ---
@@ -19,6 +19,9 @@ Focused on learning Java and Backend Development
 Currently studying:
 - Java
 - Object-Oriented Programming
+- SQL
+- MySQL
+- MVC Architecture
 - Spring Framework
   
 ---
@@ -26,6 +29,9 @@ Currently studying:
 ## Technologies
 
 - Java
+- JavaFX
+- JDBC
+- MySQL
 - Spring Framework
 - Git
 - GitHub
