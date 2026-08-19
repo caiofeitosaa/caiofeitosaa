@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,javafx,sql,mysql,spring,git,github,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,spring,git,github,idea,vscode" />
 </p>
 
 ---
