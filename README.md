@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Caio</h1>
 
 <p align="center">
-  ADS Student at University of Fortaleza • Java Developer in Progress 
+  ADS Student at University of Fortaleza • Java Developer
 </p>
 
 <p align="center">
@@ -14,16 +14,16 @@
 
 ADS (Systems Analysis and Development) Student at University of Fortaleza
 
-Focused on learning Java and Backend Development
+Focused on learning Java and Backend Development.
 
 Currently studying:
 - Java
-- JavaFX
+- GUI (JavaFX)
 - Object-Oriented Programming
-- APIs
 - SQL
 - MySQL
 - MVC Architecture
+- Rest APIs
 - Spring Framework
   
 ---
@@ -34,15 +34,15 @@ Currently studying:
 - JavaFX
 - JDBC
 - MySQL
-- Spring Framework
 - Git
 - GitHub
+- Spring
 
 ---
 
 ## Current Goals
 
-- Improve my Java skills
-- Master Spring Boot
-- Build real-world backend projects
-- Grow my portfolio
+- Improving my Java skills, critical thinking and bug fixing skills.
+- Build real-world backend projects.
+- Grow my portfolio.
+- Build REST APIs using Spring.
