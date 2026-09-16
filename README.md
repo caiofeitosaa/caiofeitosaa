@@ -36,7 +36,6 @@ Currently studying:
 - MySQL
 - Git
 - GitHub
-- Spring
 
 ---
 
