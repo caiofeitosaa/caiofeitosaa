@@ -24,7 +24,8 @@ Currently studying:
 - MySQL
 - MVC Architecture
 - Rest APIs
-- Spring Framework
+- Spring Boot
+- Front End: HTML, CSS and JS
   
 ---
 
@@ -33,6 +34,8 @@ Currently studying:
 - Java
 - JavaFX
 - JDBC
+- Spring Boot
+- HTML, Basic CSS and Basic JavaScript
 - MySQL
 - Git
 - GitHub
