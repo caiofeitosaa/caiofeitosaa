@@ -25,7 +25,7 @@ Currently studying:
 - MVC Architecture
 - Rest APIs
 - Spring Boot
-- Front End: HTML, CSS and JS
+- Front End: React
   
 ---
 
@@ -35,7 +35,6 @@ Currently studying:
 - JavaFX
 - JDBC
 - Spring Boot
-- HTML, Basic CSS and Basic JavaScript
 - MySQL
 - Git
 - GitHub
@@ -44,7 +43,7 @@ Currently studying:
 
 ## Current Goals
 
-- Improving my Java skills, critical thinking and bug fixing skills.
-- Build real-world backend projects.
-- Grow my portfolio.
-- Build REST APIs using Spring.
+- Improving my Java skills, critical thinking and bug fixing skills
+- Build real-world backend projects
+- Grow my portfolio
+- Learn Frontend technologies (React)
