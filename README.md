@@ -27,6 +27,10 @@ I build REST APIs with business rules, validation and database persistence, and 
 
 ## 🗂️​ Featured Projects
 
+### [IT Service Desk API](https://github.com/caiofeitosaa/it_service_desk_api)
+REST API to manage IT support tickets, with token-based authentication and a layered architecture.
+**Stack:** Java, Spring Boot, Spring Security, JWT, BCrypt, Spring Data JPA, MySQL, Maven, Postman
+
 ### [Meeting Room Booking System](https://github.com/caiofeitosaa/meeting_room_booking_system)
 REST API to manage users, meeting rooms and reservations, with conflict validation that prevents overlapping bookings.
 **Stack:** Java, Spring Boot, Spring Data JPA, MySQL, Bean Validation, Maven, Postman
