@@ -47,7 +47,7 @@ Desktop calculator built with JavaFX and Scene Builder.
 
 ## 💻 Technologies
 
-**Backend:** Java • Spring Boot • Spring Web • Spring Data JPA/Hibernate • Bean Validation • REST APIs
+**Backend:** Java • Spring Boot • Spring Web • Spring Data JPA/Hibernate • Spring Security • JWT e Bcrypt • Bean Validation • REST APIs
 **Database:** MySQL • SQL • JDBC
 **Desktop:** JavaFX • Scene Builder
 **Tools:** Git • GitHub • Maven • Postman • IntelliJ IDEA • VS Code
