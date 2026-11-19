@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,java,spring,git,github,vscode,idea,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,vscode,idea,python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter Notebook" />
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="48" alt="Power BI" />
 </p>
